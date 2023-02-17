@@ -15,6 +15,8 @@
 
 ## D <a id="d"></a>
 
+- <a href="https://github.com/trstefan/discord-themed-portfolio">Discord themed portfolio</a> Portfolio website with a Discord themed style
+
 ## E <a id="e"></a>
 
 ## F <a id="f"></a>
