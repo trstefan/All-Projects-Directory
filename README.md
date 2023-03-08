@@ -15,13 +15,14 @@
 
 ## D <a id="d"></a>
 
-- <a href="https://github.com/trstefan/discord-themed-portfolio">Discord themed portfolio</a> Portfolio website with a Discord themed style
+- <a href="https://github.com/trstefan/discord-themed-portfolio">Discord themed portfolio</a> - Portfolio website with a Discord themed style
 
 ## E <a id="e"></a>
 
 ## F <a id="f"></a>
 
 - <a href="https://github.com/trstefan/frontendmentortracker">Frontend Mentor tracker </a> - Platform for my submissions for the Frontend Mentor Challenges
+- <a href="https://github.com/trstefan/firebase-todo">Firebase CRUD React Todo App </a> - CRUD React Todo App using Firebase
 
 ## G <a id="g"></a>
 
