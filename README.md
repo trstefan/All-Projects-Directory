@@ -1,7 +1,7 @@
 # All Projects Directory
 #### Collection of all of my projects
 
-[A](#a) - [B](#b) - [C](#c) - [D](#d) - [E](#e) - [F](#f) - [G](#g) - [H](#h) - [I](#i) - [J](#j) - [K](#k) - [L](#l) - [M](#m) - [N](#n) - [O](#o) - [P](#p) - [R](#r) -[S](#s) - [T](#t) - [U](#u) - [V](#v)
+[A](#a) - [B](#b) - [C](#c) - [D](#d) - [E](#e) - [F](#f) - [G](#g) - [H](#h) - [I](#i) - [J](#j) - [K](#k) - [L](#l) - [M](#m) - [N](#n) - [O](#o) - [P](#p) - [R](#r) -[S](#s) - [T](#t) - [U](#u) - [V](#v) - [W](#w)
 
 ## A <a id="a"></a>
 
@@ -27,6 +27,8 @@
 ## G <a id="g"></a>
 
 ## H <a id="h"></a>
+
+- <a href="https://github.com/trstefan/html-css-js-snippets">Html-CSS-JS snippets</a> - Snippets build using only HTML, CSS and JS as well as playing with other libraries/frameworks
 
 ## I <a id="i"></a>
 
@@ -69,3 +71,7 @@
 ## U <a id="u"></a>
 
 ## V <a id="v"></a>
+
+## W <a id="w"></a>
+
+- <a href="https://github.com/trstefan/weather-nextjs">Weather App </a> - Weather App built in NextJS
