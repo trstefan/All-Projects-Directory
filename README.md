@@ -40,6 +40,8 @@
 
 ## L <a id="l"></a>
 
+-<a href="https://github.com/trstefan/linktree-clone">Linktree Clone </a> - NextJS Linktree clone
+
 ## M <a id="m"></a>
 
 - <a href="https://github.com/trstefan/movies-nextjs">Movies </a> - NextJS web app that provides all the information of the upcoming and old movies according to the users need
